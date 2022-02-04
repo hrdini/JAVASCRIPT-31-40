@@ -1,0 +1,36 @@
+[
+    {
+
+        "idmenu" : 1,
+        "idkategori" : 1,
+        "menu" : "Nangka Madu",
+        "harga" : 150000,
+        "warna" : ["merah", "kuning", "hijau"],
+        "stok" : true,
+        "keterangan" : null
+
+    },
+    {
+
+        "idmenu" : 2,
+        "idkategori" : 1,
+        "menu" : "Anggur Moon Drops",
+        "harga" : 200000,
+        "warna" : ["ungu", "kuning"],
+        "stok" : false,
+        "keterangan" : null
+
+    },
+    {
+
+        "idmenu" : 3,
+        "idkategori" : 2,
+        "menu" : "Pisang Raja",
+        "harga" : 45000,
+        "warna" : ["merah", "kuning"],
+        "stok" : false,
+        "keterangan" : null
+
+    }
+
+]
